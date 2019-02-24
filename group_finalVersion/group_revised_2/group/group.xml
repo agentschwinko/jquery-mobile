@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pharmaceutical>
+    <title lang="en">Group Project</title>
+    <company>
+        <companyname url="http://www.apotex.com">Apotex Inc.</companyname>
+        <phonenumber>1-877-427-6839</phonenumber>
+        <longitude>-79.5995</longitude>
+        <latitude>43.8064</latitude>
+    </company>
+    <!-- 1st product -->
+    <product>
+        <brandname>PRALYSENA21</brandname>
+        <drugname>ALYSENA</drugname>
+        <description>To treat moderate acne in women 14 years of age and older who are able to use birth control pills, desire birth control and have achieved menarche. Your first menstrual period is referred to as menarche.
+        </description>
+        <administration>Oral contraceptive</administration>
+        <contraindication1>Heart or kidney disease.</contraindication1>
+        <contraindication2>History of Depression.</contraindication2>
+    </product>
+    <!-- 2nd product -->
+    <product>
+        <brandname>BOSENTAN</brandname>
+        <drugname>APO-BOSENTAN</drugname>
+        <description>APO-BOSENTAN (bosentan) tablets are prescribed for the treatment of pulmonary arterial hypertension (high blood pressure in the blood vessels between the heart and the lungs).
+        </description>
+        <administration>Oral contraceptive</administration>
+        <contraindication1>Have liver problems.</contraindication1>
+        <contraindication2>Pregnant or thinking of becoming pregnant.</contraindication2>
+    </product>
+    <!-- 3rd product -->
+    <product>
+        <brandname>ERLOTINIB</brandname>
+        <drugname>APO-ERLOTINIB</drugname>
+        <description>APO-ERLOTINIB belongs to a group of medicines called epidermal growth factor receptor tyrosine kinase inhibitors which are used to treat cancer. APO-ERLOTINIB prevents the activity of a protein called epidermal growth factor receptor. This protein is known to be involved in the growth and spread of cancer cells.
+        </description>
+        <administration>Oral contraceptive</administration>
+        <contraindication1>You have been told by your doctor that you cannot tolerate some sugars.</contraindication1>
+        <contraindication2>Smoke tobacco.</contraindication2>
+    </product>
+    <!-- 4th product -->
+    <product>
+        <brandname>TRAVOPROST USP</brandname>
+        <drugname>APO-TRAVOPROST Z</drugname>
+        <description>APO-TRAVOPROST Z Solution is used to treat high pressure in the eye.
+        </description>
+        <administration>1 drop in the eye or eyes, once a day</administration>
+        <contraindication1>If you are allergic to prostaglandin analogues or any of the other ingredients.</contraindication1>
+        <contraindication2>If you are pregnant, or trying to become pregnant.</contraindication2>
+    </product>
+    <!-- 5th product -->
+    <product>
+        <brandname>ACETAMINOPHEN</brandname>
+        <drugname>PARACETAMOL</drugname>
+        <description> Paracetamol is used to treat pain and fever.It is typically used for mild to moderate pain relief.
+        </description>
+        <administration>Oral contraceptive</administration>
+        <contraindication1>Liver disease.</contraindication1>
+        <contraindication2>History of Asthma.</contraindication2>
+    </product>
+    <!-- 6th product -->
+    <product>
+        <brandname>AEROBID</brandname>
+        <drugname>APO-FLUNISOLIDE</drugname>
+        <description>APO-FLUNISOLIDE (aerobid) is a corticosteroid often prescribed as treatment for allergic rhinitis.Intranasal corticosteroids are the most effective medication for controlling symptoms.
+        </description>
+        <administration>Intranasal spray</administration>
+        <contraindication1>Nasal Septal Ulcers.</contraindication1>
+        <contraindication2>Nasal Surgery or Trauma.</contraindication2>
+    </product>
+    <!-- 7th product -->
+    <product>
+        <brandname>ALEVE</brandname>
+        <drugname>APO-NAPROXEN</drugname>
+        <description>APO-NAPROXEN is one of a large group of non–steroidal anti–inflammatory drugs (also called NSAIDs) and is used to treat the symptoms of certain types of arthritis. It helps to relieve joint pain, swelling, stiffness and fever by reducing the production of certain substances (prostaglandins) and by helping to control inflammation.
+        </description>
+        <administration>Oral contraceptive</administration>
+        <contraindication1>Stomach Ulcers.</contraindication1>
+        <contraindication2>Asthma.</contraindication2>
+    </product>
+    <!-- 8th product -->
+    <product>
+        <brandname>ABILIFY</brandname>
+        <drugname>ARIPIPRAZOLE</drugname>
+        <description>ARIPIPRAZOLE is recommended and primarily used in the treatment of schizophrenia and bipolar disorder.Other uses include as an add-on treatment in major depressive disorder, tic disorders, and irritability associated with autism
+        </description>
+        <administration>Oral contraceptive</administration>
+        <contraindication1>Stroke in Elderly People.</contraindication1>
+        <contraindication2>Orthostatic hypotension (decreased blood pressure).</contraindication2>
+    </product>
+    <!-- 9th product -->
+    <product>
+        <brandname>PROTONIX</brandname>
+        <drugname>PANTOPRAZOLE</drugname>
+        <description>PANTOPRAZOLE is used for short-term treatment of erosive esophagitis associated with gastroesophageal reflux disease (GERD), maintenance of healing of erosive esophagitis, and pathological hypersecretory conditions including Zollinger–Ellison syndrome.
+        </description>
+        <administration>Oral contraceptive</administration>
+        <contraindication1>Headache.</contraindication1>
+        <contraindication2>Diarrhea.</contraindication2>
+    </product>
+    <!-- 10th product -->
+    <product>
+        <brandname>WELLBUTRIN</brandname>
+        <drugname>BUPROPION</drugname>
+        <description>BUPROPION is a medication primarily used as an antidepressant and smoking cessation aid. It is an effective antidepressant on its own, but is also popular as an add-on medication in cases of incomplete response to first-line SSRI antidepressants.
+        </description>
+        <administration>Oral Contraceptive</administration>
+        <contraindication1>Seizue Disorder.</contraindication1>
+        <contraindication2>Prior diagnosis of anorexia nervosa or bulimia.</contraindication2>
+    </product>
+</pharmaceutical>

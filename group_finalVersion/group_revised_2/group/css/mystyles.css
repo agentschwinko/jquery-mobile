@@ -1,0 +1,197 @@
+.ui-page {
+    -webkit-backface-visibility: hidden;
+}
+
+.ui-icon-aminoacids:after {
+    background-image: url("images/aminoacids.jpg");
+    background-size: 22px 22px;
+}
+
+.ui-icon-blood_glucose:after {
+    background-image: url("images/blood_glucose.jpg");
+    background-size: 22px 22px;
+}
+
+.ui-icon-calories:after {
+    background-image: url("images/calories.jpg");
+    background-size: 22px 22px;
+}
+
+.ui-icon-carb:after {
+    background-image: url("images/carb.jpg");
+    background-size: 22px 22px;
+}
+
+.ui-icon-cholesterol:after {
+    background-image: url("images/cholesterol.jpg");
+    background-size: 22px 22px;
+}
+
+.ui-icon-dehydration:after {
+    background-image: url("images/dehydration.jpg");
+    background-size: 22px 22px;
+}
+
+.ui-icon-diet:after {
+    background-image: url("images/diet.jpg");
+    background-size: 22px 22px;
+}
+
+.ui-icon-diet_sup:after {
+    background-image: url("images/diet_sup.jpg");
+    background-size: 22px 22px;
+}
+
+.ui-icon-digestion:after {
+    background-image: url("images/digestion.jpg");
+    background-size: 22px 22px;
+}
+
+.ui-icon-electrolytes:after {
+    background-image: url("images/electrolytes.jpg");
+    background-size: 22px 22px;
+}
+
+.ui-icon-about:after {
+    background-image: url("images/about.png");
+    background-size: 22px 22px;
+}
+
+.ui-icon-pills:after {
+    background-image: url("images/pills.png");
+    background-size: 22px 22px;
+}
+
+.ui-icon-sandra:after {
+    background-image: url("images/sandra.jpg");
+    background-size: 22px 22px;
+}
+
+.ui-icon-tom:after {
+    background-image: url("images/tom.png");
+    background-size: 22px 22px;
+}
+
+.ui-icon-home:after {
+    background-image: url("images/home.jpg");
+    background-size: 22px 22px;
+}
+.ui-icon-sandra:after {
+    background-image: url("images/icon1.jpg");
+    background-size: 22px 22px;
+}
+
+.ui-icon-sophie:after {
+    background-image: url("images/icon2.jpg");
+    background-size: 22px 22px;
+}
+
+.ui-icon-wenwei:after {
+    background-image: url("images/icon3.jpg");
+    background-size: 22px 22px;
+}
+
+#mainPage, #nutritionInfo, #individual{
+    background-color: #8fafc6;
+}
+
+.title {
+	width:170px;
+    padding: 63px;
+}
+
+.web {
+    margin-left: 12px;
+}
+
+#myImage, #myImageS, #myImageT, #myImage3, #myImageS3, #myImageT3, #myImage2, #myImageS2, #myImageT2
+ {
+    display: inline;
+    padding-left: 10px;
+}
+
+#goBack {
+    margin-top: 1px;
+    margin-left: 1px;
+    width: 45px;
+}
+
+#showSandra,
+#showSophie,
+#showTom {
+    width: 480px;
+    padding: 30px;
+}
+
+#myImage {
+    padding-top: 2px;
+    text-align: center;
+}
+
+#nutritionTitle,
+#description {
+    color: #1FC2A6;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+}
+
+header {
+    text-align: center;
+}
+
+#img {
+    padding-left: 90px;
+}
+
+#showSandra2, #showSophie2, #showTom2, #showSandra3, #showSophie3, #showTom3 {
+	width: 480px;
+    padding: 30px;
+}
+
+#contraind2 {
+	margin-top:-20px;
+	font-size:14px;
+	color:#ef632d;
+}
+
+#contraind1 {
+	font-size:14px;
+	color:#ef632d;
+
+}
+
+#sectionBlock, #infoContent {
+	background-color:#121619;
+	margin:10px;
+}
+
+#infoContent {
+	margin-left:-10px;
+	margin-right:20px;
+}
+
+#nutritionheader {
+	margin-left:-20px;
+	margin-top:-10px;
+}
+
+#nutritionfooter {
+	margin-left:-20px;
+
+}
+
+#mainfooter{
+	margin:-20px 0px 5px 0px;
+}
+
+#brandname {
+	color:#1FC2A6;
+}
+
+.ui-content {
+	margin-top:-20px;
+}
+
+
+

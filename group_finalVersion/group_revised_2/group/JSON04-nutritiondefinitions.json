@@ -1,0 +1,89 @@
+{
+	"nutritionInfo": {
+		"nameGroup": [
+			{
+				"name": "Amino Acids",
+				"description": "Amino acids are the building blocks of proteins. The body produces many amino acids and others come from food. The body absorbs amino acids through the small intestine into the blood. Then the blood carries them throughout the body.",
+				"icon": "aminoacids",
+                "image": "aminoacids.jpg",
+				"reference": "NIH MedlinePlus",
+				"url": "https://en.wikipedia.org/wiki/Amino_acid"
+			},
+			{
+				"name": "Blood Glucose",
+				"description": "Glucose — also called blood sugar — is the main sugar found in the blood and the main source of energy for your body.",
+				"icon": "blood_glucose",
+                "image": "blood_glucose.jpg",
+				"reference": "NIH MedlinePlus",
+				"url": "https://medlineplus.gov/bloodsugar.html"
+			},
+			{
+				"name": "Calories",
+				"description": "A unit of energy in food. Carbohydrates, fats, protein, and alcohol in the foods and drinks we eat provide food energy or \"calories.\"",
+				"icon": "calories",
+                "image": "calories.jpg",
+				"reference": "National Institute of Diabetes and Digestive and Kidney Diseases",
+				"url": "http://win.niddk.nih.gov/publications/glossary.htm#c"
+			},
+			{
+				"name": "Carbohydrates",
+				"description": "Carbohydrates are one of the main types of nutrients. Your digestive system changes carbohydrates into glucose (blood sugar). Your body uses this sugar for energy for your cells, tissues and organs. It stores any extra sugar in your liver and muscles for when it is needed. There are two types of carbohydrates: simple and complex. Simple carbohydrates include natural and added sugars. Complex carbohydrates include whole grain breads and cereals, starchy vegetables and legumes.",
+				"icon": "carb",
+                "image": "calories.jpg",
+				"reference": "NIH MedlinePlus",
+				"url": "https://medlineplus.gov/carbohydrates.html"
+			},
+			{
+				"name": "Cholesterol",
+				"description": "Cholesterol is a waxy, fat-like substance that’s found in all cells of the body. Your body needs some cholesterol to make hormones, vitamin D, and substances that help you digest foods. Your body makes all the cholesterol it needs. However, cholesterol also is found in some of the foods you eat. High levels of cholesterol in the blood can increase your risk of heart disease.",
+				"icon": "cholesterol",
+                "image": "cholesterol.jpg",
+				"reference": "National Heart, Lung, and Blood Institute",
+				"url": "http://www.nhlbi.nih.gov/health/health-topics/topics/hbc/"
+			},
+			{
+				"name": "Dehydration",
+				"description": "Dehydration is a condition that happens when you do not take in enough liquids to replace those that you lose. You can lose liquids through frequent urinating, sweating, diarrhea, or vomiting. When you are dehydrated, your body does not have enough fluid and electrolytes to work properly.",
+				"icon": "dehydration",
+                "image": "dehydration.jpg",
+				"reference": "NIH MedlinePlus",
+				"url": "https://medlineplus.gov/dehydration.html"
+			},
+			{
+				"name": "Diet",
+				"description": "Your diet is made up of what you eat and drink. There are many different types of diets, such as vegetarian diets, weight loss diets, and diets for people with certain health problems.",
+				"icon": "diet",
+                "image": "diet.jpg",
+				"reference": "NIH MedlinePlus",
+				"url": "https://en.wikipedia.org/wiki/Diet_(nutrition)"
+			},
+			{
+				"name": "Dietary Supplements",
+				"description": "A dietary supplement is a product you take to supplement your diet. It contains one or more dietary ingredients (including vitamins; minerals; herbs or other botanicals; amino acids; and other substances). Supplements do not have to go through the testing that drugs do for effectiveness and safety.",
+				"icon": "diet_sup",
+                "image": "diet_sup.jpg",
+				"reference": "National Institutes of Health, Office of Dietary Supplements",
+				"url": "http://ods.od.nih.gov/factsheets/DietarySupplements-HealthProfessional/"
+			},
+			{
+				"name": "Digestion",
+				"description": "Digestion is the process the body uses to break down food into nutrients. The body uses the nutrients for energy, growth, and cell repair.",
+				"icon": "digestion",
+                "image": "digestion.jpg",
+				"reference": "National Institute of Diabetes and Digestive and Kidney Diseases",
+				"url": "http://www.niddk.nih.gov/health-information/health-topics/Anatomy/your-digestive-system/Pages/anatomy.aspx"
+			},
+			{
+				"name": "Electrolytes",
+				"description": "Electrolytes are minerals in body fluids. They include sodium, potassium, magnesium, and chloride. When you are dehydrated, your body does not have enough fluid and electrolytes.",
+				"icon": "electrolytes",
+                "image": "electrolytes.jpg",
+				"reference": "NIH MedlinePlus",
+				"url": "https://medlineplus.gov/fluidandelectrolytebalance.html"
+			}
+		],
+		"lastUpdated": "2016-10-03",
+		"pageURL": "https://medlineplus.gov/descriptions/nutritiondescriptions.html",
+		"title": "Nutrition"
+	}
+}

@@ -1,0 +1,22 @@
+{
+"students": [
+	{
+		"fullname" : "Sandra Krcmar",
+		"slogin" : "krcmar",
+		"snumber" : "030615720",
+		"spicture" : "sandra.jpg"
+	},
+	{
+		"fullname" : "Yuan Yao",
+		"slogin" : "yaoyua",
+		"snumber" : "991425650",
+		"spicture" : "sophie.jpg"
+	},
+	{
+		"fullname" : "Wenwei Zong",
+		"slogin" : "zongw",
+		"snumber" : "991429038",
+		"spicture" : "tom.png"
+	}
+	]
+}
